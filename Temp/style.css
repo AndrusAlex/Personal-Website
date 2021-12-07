@@ -1,0 +1,108 @@
+img {
+  width : 250px;
+  height: 200px;
+  float: center;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background: rgba(128, 0, 128, 0.63)
+}
+
+h1 {
+  text-align: center;
+  font-size: 49px;
+  font-style: italic;
+  color: white;
+}
+
+h2 {
+  color: darkred;
+  font-family : 'Lucida Handwriting', cursive;
+  font-size : 20px;
+  text-align : center;
+}
+
+h3 {
+  color : blue;
+  text-align : center;
+  font-family : 'Lucida Handwriting', cursive;
+  font-size : 30px;
+}
+
+li{
+  color : darkgreen;
+  font-family : 'Lucida Handwriting', cursive;
+  font-size : 20px;
+}
+
+h4 {
+  text-align: right;
+}
+
+.Smash {
+  width : 250px;
+  height: 200px;
+    float: right;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Nintendo {
+  width : 250px;
+  height: 200px;
+  float: right;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Mickey {
+  width : 250px;
+  height: 200px;
+  float: right;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Disneyland {
+  width : 250px;
+  height: 200px;
+  float: right;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Doggy {
+  width : 250px;
+  height: 200px;
+  float: right;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Bird {
+  width : 250px;
+  height: 200px;
+  float: right;
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, th, td {
+  border:1px solid black;
+}
